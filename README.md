@@ -1,5 +1,5 @@
 # fork-and-clone
 
-this is a repo to demonstraite fork workflow
+this is a repo to demonstrate fork workflow
 
-my favotite repo does´t this ahahah
+my favorite repo does´t this ahahah
